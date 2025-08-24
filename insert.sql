@@ -1,4 +1,4 @@
-CREATE DATABASE employee_dD;
+CREATE DATABASE employee_database ;
 CREATE TABLES employess(
    employee_id  int primary key;  
    name  VARCHAR (100);
@@ -8,3 +8,4 @@ CREATE TABLES employess(
 )
    
   
+
